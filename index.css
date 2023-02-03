@@ -1,0 +1,32 @@
+p {
+  color: rgba(147, 43, 130, 0.454);
+}
+
+.greeting {
+  color: #f8c7cc;
+  background-color: aqua;
+}
+
+.container {
+  height: 500px;
+  width: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://www.topgear.com/sites/default/files/2021/11/PCGB21_1360_fine.jpg);
+}
+
+.greeting {
+  color: gold;
+}
+
+.container p.greeting {
+  color: purple;
+}
+
+/* p.greeting {
+  color: blue;
+} */
+
+.intro {
+  color: green;
+}
